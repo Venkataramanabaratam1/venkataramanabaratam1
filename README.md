@@ -1,8 +1,11 @@
 ### Hi there 👋
-### BARATAM VENKATARAMANA
+My self 
+### VENKATARAMANA BARATAM
 # 💫 About Me:
 I'm currently pursuing my Btech-3rd year at KL University, Vijayawada.<br>I have scored well in  10th and Intermediate and now I have more than 9 CGPA in Btech.<br>I have gained 3 global Certifications till now, they are AWS Cloud Practitioner, Developer Associate and Redhat EX183.<br>I'm currently working in Student Course Management with Springboot(java).<br>I have done 4 projects till now in React, Django(python), Redhat, and SpringBoot(java).<br>I'm ready to work...
 
+
+[![](https://visitcount.itsvg.in/api?id=venkataramanabaratam1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_me_yours_venky) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkataramanabaratam) 
@@ -24,6 +27,5 @@ I'm currently pursuing my Btech-3rd year at KL University, Vijayawada.<br>I have
 ![](https://github-contributor-stats.vercel.app/api?username=venkataramanabaratam1&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=venkataramanabaratam1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
