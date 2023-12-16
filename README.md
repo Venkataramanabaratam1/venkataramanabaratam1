@@ -13,7 +13,7 @@ My self
 🌱 I’m currently learning Data Science, Full Stack Web Development and Programming, Data Warehousing, Data Mining, Data Visualization, Big Data Analytics, Django, Flask, Node JS, Express, HTML, Java Script, Java, Python, C, C++.<br>
 ✔️ I'm ready to work...
 
-[![](https://visitcount.itsvg.in/api?id=venkataramanabaratam1&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=venkataramanabaratam1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 👨‍💻 All of my projects & certificates are available at https://www.linkedin.com/in/venkataramanabaratam
 
