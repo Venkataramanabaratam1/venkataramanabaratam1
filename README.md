@@ -23,7 +23,7 @@ My self
 
 📫 How to reach me bvenkataramana2852@gmail.com
 
-📄 Know about my experiences https://kluniversityin-my.sharepoint.com/:b:/g/personal/2100032420_kluniversity_in/EWZYqA-CiAlApMXW8S5V1_AB9XTN1LygCBru8eJv4BWS_Q?e=1UAT4M
+📄 Know about my experiences (https://drive.google.com/file/d/1Z4tpvaxq_vOU7JLpFdWpZVzlf0UJlNaR/view?usp=sharing)
 
 
 ## 🌐 Socials:
