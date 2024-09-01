@@ -5,7 +5,7 @@
 
 My self
 # Venkataramana Baratam
-✔️ I'm currently pursuing my Btech-3rd year in KL University, Vijayawada.<br>
+✔️ I'm currently pursuing my Btech Final year in KL University, Vijayawada.<br>
 📛 I have scored well in both 10th and Intermediate and now I have more than 9 CGPA in Btech.<br>
 📔 I have gained 3 global Certifications till now, they are AWS Cloud Practitioner, Developer Associate and Redhat EX183.<br>
 🔭 I'm currently working in Student Course Management with Springboot(java).<br>
@@ -15,7 +15,7 @@ My self
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=venkataramanabaratam1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-👨‍💻 All of my projects & certificates are available at https://www.linkedin.com/in/venkataramanabaratam
+👨‍💻 All of my projects & certificates are available at https://www.venkataramanabaratam.live & https://www.linkedin.com/in/venkataramanabaratam
 
 📛 All of my Badges are available at https://www.credly.com/users/venkataramanabaratam/badges
 
